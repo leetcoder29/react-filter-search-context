@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Filter /> renders and matches the snapshot 1`] = `
+<div
+  className="filter-container"
+>
+  <label
+    htmlFor="filter"
+  >
+    Filter
+    <select
+      onChange={[Function]}
+    >
+      <option
+        value="FILTER_OFF"
+      >
+        All
+      </option>
+      <option
+        value="FILTER_ERRAND_ONLY"
+      >
+        Errand
+      </option>
+      <option
+        value="FILTER_WORK_ONLY"
+      >
+        Work
+      </option>
+    </select>
+  </label>
+</div>
+`;

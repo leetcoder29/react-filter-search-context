@@ -1,0 +1,11 @@
+  - Ping JSON DB
+  - Render data
+  - Implement search & filter
+  - Write tests
+  - How to structure react/redux file structure with scalability in mind
+  - How do you do code reviews
+  - What's your approach to testing
+  - How would you optimize a list that has millions of rows?
+  - What is good UX?
+  - How do you organize your CSS?
+  - How do you prioritize engineering tasks?
